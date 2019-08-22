@@ -6,11 +6,12 @@ categories: ["Briefing"]
 description: "Mission Briefing for OIST Intellectual Property Retrieval"
 draft: false
 ---
+
 # Mission Brief
 
 The Johnson requires retrieval of stolen intellectual property, that they
-believe is being developed in violation of their patent and trademark agreement by a 
-research scientist at the Okinawa Institute of Science and Technology (OIST). 
+believe is being developed in violation of their patent and trademark agreement by a
+research scientist at the Okinawa Institute of Science and Technology (OIST).
 
 The mission is to infiltrate the OIST campus, and retrieve the intellectual property. No
 trace of the intellectual property is to remain on site.
@@ -19,7 +20,7 @@ trace of the intellectual property is to remain on site.
 
 ### Base Pay
 
-Each team member will receive 5000Eb, and commensurate senority bonus. 
+Each team member will receive 5000Eb, and commensurate senority bonus.
 
 ### Time Bonus
 
@@ -42,17 +43,19 @@ systems.
 
 ### Okinawa, Japan
 
-![Okinawa](/images/act0/okinawa.jpg)
+<img src="/images/act0/okinawa.jpg" width="400"/>
 
 ### Naha, Okinawa, Japan
-![Naha](/images/act0/naha.jpg)
+
+<img src="/images/act0/naha.jpg" width="400"/>
 
 ### Okinawa Institute of Science and Technology, Okinawa, Japan
 
 20 Miles NE of Naha.
 
 #### OIST Campus Map
-![oist-campus](/images/act0/oist-campus.jpg)
+
+<img src="/images/act0/oist-campus.jpg" width="400">
 
 #### OIST Laboratories
 
@@ -60,11 +63,12 @@ OIST has a wide range of laboratories; supercomputing, wet biology labs, etc. Yo
 breakdown here, at [OIST Laboratories Breakdown](https://www.oist.jp/research-facilities#lab1).
 
 ##### OIST Sea House
+
 The Sea House is the location of the mainframe and datacore; it is part hotel and part research facility,
-focused on children and families. The brown section on Level 2 is the secure facility that houses the 
+focused on children and families. The brown section on Level 2 is the secure facility that houses the
 mainframe and datacore. To our knowledge, the facility is not connected directly to the Net.
 
-![oist-sea-house](/images/act0/oist-sea-house.png)
+<img src="/images/act0/oist-sea-house.png" width="400">
 
 ## Security
 
@@ -73,15 +77,15 @@ outfit whose headquarters is in Naha. Threat level is predicted to be low.
 
 ## Transportation
 
-* Flights to Naha International
-* Two AV-6 Aerodynes, with stealh
-![AV-6](/images/act0/AV-6.jpg)
+- Flights to Naha International
+- Two AV-6 Aerodynes, with stealh
 
-## Team 
+<img src="/images/act0/AV-6.jpg" width="400">
+
+## Team
 
 ### Leader: Martin Sandoval
 
-![Martin Sandoval](/images/npcs/martin-sandoval.jpg)
+<img src="/images/npcs/martin-sandoval.jpg" width="400">
 
 Martin is a Solo at West Coast Recovery, and has been leading recovery teams for the last two years.
-
