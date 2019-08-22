@@ -1,0 +1,38 @@
+baseURL = "https://www.example.org/"
+title = "West Coast Recovery"
+theme = "khata"
+languageCode = "en-us"
+copyright = "2019. Wilson McGee"
+pluralizelisttitles = false
+disableKinds = ["taxonomyTerm"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  dateFormat = "2006-01-02"
+
+[params.author] 
+  name = "Wilson McGee, Esq. "
+  profilephoto = "/images/npcs/wilson-mcgee.jpg"
+  title = "Proprietor, West Coast Recovery, Inc."
+  subtitle = "Night City, Northern California Free State"
+  about = '''
+  **West Coast Recovery DataTerm**. _Authorized Users Only_.
+'''
+
+[[params.social]]
+  name = "Twitter"
+  link = "#"
+  iconclass= "fab fa-twitter"
+
+[[params.social]]
+  name = "LinkedIn"
+  link = "#"
+  iconclass= "fab fa-linkedin"
+
+[[params.social]]
+  name = "Email"
+  link = "mailto:username@domain.com"
+  iconclass= "fas fa-envelope"
