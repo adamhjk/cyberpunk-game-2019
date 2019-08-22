@@ -75,10 +75,11 @@ mainframe and datacore. To our knowledge, the facility is not connected directly
 OIST Campus Security is provided by a contract with Gunichiro Security, a relatively boutique security
 outfit whose headquarters is in Naha. Threat level is predicted to be low.
 
-## Transportation
+## Transportation and Equipment
 
 - Flights to Naha International
-- Two AV-6 Aerodynes, with stealh
+- Two AV-6 Aerodynes, with stealth. Two pilots.
+- Access to West Coast Recovery assets.
 
 <img src="/images/act0/AV-6.jpg" width="400">
 
