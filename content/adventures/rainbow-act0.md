@@ -220,3 +220,15 @@ That we get away clean - but then Cyberpunk happens.
 - David
 - Paul
 - Tanaka
+
+## Notes
+
+* Rachel Magoo is an old friend of the MedTEch; she replaced Yobuchi Morinobu's heart. 
+* Yobuchi Morinobu is tired of his nice guy boring life, and wants to try his hand at being an edgerunner. Yobuchi is going to let them in.
+* Laurence Phil was set up, and eventually killed by Sandoval. They have his key card and his finger.
+* Jane Nakamura complained about how she isn't sure it even works, and how weird it is with the kids. She got blasted with theNomad.
+* Jade Dragon Escorts was Phil's preferred place, with Yoshimi WAtanabe as the madam
+* Laurence Phil liked blond girls
+* Abui solo got in a fight with the surviellance crew - not the mall cops
+* Sandoval is going to land the AV on the roof for the evac
+
