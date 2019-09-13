@@ -126,9 +126,9 @@ to turn.
 David, Janet, Mark and Rob. Rob is the kid under the ADHD program. David is an up and coming corp beaver, and he's embarrased by Rob.
 Mark is resentful that Rob brought them here. Janet is sleeping with Lawerence Phil.
 
-#### Eido Family
+#### Eidol Family
 
-Fujimura, Iori, and Tsuga. Tsuyga is the little girl. She's obsessed with Gundam.
+Fujimura, Iori, and Tsuyga. Tsuyga is the little girl. She's obsessed with Gundam.
 
 ### Employees
 
@@ -231,4 +231,5 @@ That we get away clean - but then Cyberpunk happens.
 * Laurence Phil liked blond girls
 * Abui solo got in a fight with the surviellance crew - not the mall cops
 * Sandoval is going to land the AV on the roof for the evac
+
 
