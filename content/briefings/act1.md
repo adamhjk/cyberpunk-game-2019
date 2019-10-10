@@ -49,3 +49,9 @@ The target package is a [Taylor Wharton Cyrogenic Cylinder](http://twcryo.com/pr
 * Bobby did some digging, and discovered that Sandoval has a compound filled
 with his family in the Combat Zone.
 
+#### Atlantis
+
+![Stairs](/images/act1/House_Of_Stairs_Escher.jpg)
+![Club Atlantis](/images/act1/club-atlantis-2.png)
+
+
