@@ -1,2 +1,4 @@
 tags
 public/
+.DS_Store
+*.swp

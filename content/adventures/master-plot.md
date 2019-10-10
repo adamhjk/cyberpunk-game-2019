@@ -11,8 +11,8 @@ draft: false
 
 ## Sentence
 
-Lucian Edge, CEO of Spotify-RCA, wants the head of Ronnie James Dio by June 31, so
-that they can ressurect him and force him to write and an album by the Grammy
+Lucian Edge, SVP of Metal of Spotify-RCA, wants the head of Ronnie James Dio by June 31, so
+that they can ressurect him and force him to write an album by the Grammy
 deadline, and is having difficulty getting it using a small extraction team
 lead by Martin Sandoval because he has decided to sell it himself.
 
@@ -38,8 +38,9 @@ for the forgotten and forlorn. She has decided to steal the head from Sandoval.
 
 Martin Sandoval, a mercenary Solo. Sandoval was originally hired to transport
 the frozen head from a cryo facitiliy in Houston, Texas. He had his netrunner
-hack the cryo facility first, and learned what he was transporting, and why. He
-decided to sell it on the dark net to the highest bidder.
+compatriot Percival hack the cryo facility first, and learned what he was
+transporting, and why. He decided to sell it on the dark net to the highest
+bidder.
 
 Jeffrey Stringer, VP of Arasaka-Sony-BMG Records. The highest bidder on the
 payload. Sandoval also sold him the information that Edge has a copy of Soulkiller,
